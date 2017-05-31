@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="79.46524mm"
+   height="24.355778mm"
+   viewBox="0 0 281.56975 86.299999"
+   id="svg5070"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="intereses.svg">
+  <defs
+     id="defs5072">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4384">
+      <path
+         d="m 0,1800 2880,0 L 2880,0 0,0 0,1800 Z"
+         id="path4386"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="151.49913"
+     inkscape:cy="-188.2786"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1360"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5075">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(289.35627,-257.7836)">
+    <text
+       y="290.69562"
+       x="-264.69446"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:'PT Mono';-inkscape-font-specification:PTMono-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text4374">
+      <tspan
+         x="-264.69446 -243.69446 -222.69446 -201.69444 -180.69446 -159.69444 -138.69444 -117.69445 -96.694466 -75.694466 -54.694447"
+         y="290.69562"
+         sodipodi:role="line"
+         id="tspan4376">declaración</tspan>
+      <tspan
+         x="-275.19446 -254.19446 -233.19446 -212.19446 -191.19446 -170.19446 -149.19444 -128.19446 -107.19445 -86.19445 -65.19445 -44.194462"
+         y="332.69562"
+         sodipodi:role="line"
+         id="tspan4378">de intereses</tspan>
+    </text>
+    <g
+       transform="matrix(1.25,0,0,-1.25,-1949.1964,1793.2401)"
+       id="g4380">
+      <g
+         id="g4382"
+         clip-path="url(#clipPath4384)">
+        <g
+           id="g4388"
+           transform="translate(1327.8721,1228.3652)">
+          <path
+             d="m 0,0 9.548,0 0,-1.96 -7.336,0 0,-65.12 7.336,0 0,-1.96 L 0,-69.04 0,0 Z"
+             style="fill:#0495da;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4390"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4392"
+           transform="translate(1553.1279,1159.3252)">
+          <path
+             d="m 0,0 -9.576,0 0,1.96 7.364,0 0,65.12 -7.364,0 0,1.96 L 0,69.04 0,0 Z"
+             style="fill:#0495da;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4394"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

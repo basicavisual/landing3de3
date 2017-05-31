@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  height: 10em;
+  width: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.centered {
+  display: block;
+  margin-left: auto;
+  text-align: center;
+    margin-right: auto;
+    margin-bottom: 3em;
+  /*padding: right: 3em;*/
+}
+
+.brackets {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2em;
+  padding-right: 2em;
+  width: 15%;
+}
+
+.mainbox {
+  display: block;
+  margin: auto;
+  width: 61%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 'light';
+  margin-bottom: 2.5em;
+}
+
+.secondbox {
+  display: block;
+  margin: auto;
+  width: 63.33%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 'light';
+  margin-bottom: 2.5em;
+  margin-top: 1.5em;
+}
+
+.herebracket {
+  width: 80%;
+}
+
+.blackbar {
+  display: block;
+  margin: auto;
+  background-color: black;
+  font-family: 'PT Mono', monospace;
+  width: 63.33%;
+  color: white;
+}
+
+.lastbox {
+  display: block;
+  margin: auto;
+  width: 63.33%;
+  font-family: 'PT Mono', monospace;
+  font-size: .8em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: .5em;
+}
+
+/*Grid system*/
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}

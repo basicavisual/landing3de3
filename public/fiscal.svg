@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="75.584686mm"
+   height="24.355778mm"
+   viewBox="0 0 267.81975 86.299999"
+   id="svg5698"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="fiscal.svg">
+  <defs
+     id="defs5700">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4362">
+      <path
+         d="m 0,1800 2880,0 L 2880,0 0,0 0,1800 Z"
+         id="path4364"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="133.90983"
+     inkscape:cy="43.149995"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1360"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5703">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(271.76697,-489.2122)">
+    <text
+       y="522.12421"
+       x="-253.35516"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:'PT Mono';-inkscape-font-specification:PTMono-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text4352">
+      <tspan
+         x="-253.35516 -232.35516 -211.35516 -190.35516 -169.35516 -148.35516 -127.35516 -106.35516 -85.355179 -64.355179 -43.355164"
+         y="522.12421"
+         sodipodi:role="line"
+         id="tspan4354">declaración</tspan>
+      <tspan
+         x="-200.85516 -179.85516 -158.85516 -137.85516 -116.85518 -95.855164"
+         y="564.12421"
+         sodipodi:role="line"
+         id="tspan4356">fiscal</tspan>
+    </text>
+    <g
+       transform="matrix(1.25,0,0,-1.25,-2312.8571,2024.6687)"
+       id="g4358">
+      <g
+         id="g4360"
+         clip-path="url(#clipPath4362)">
+        <g
+           id="g4366"
+           transform="translate(1632.8721,1228.3652)">
+          <path
+             d="m 0,0 9.548,0 0,-1.96 -7.336,0 0,-65.12 7.336,0 0,-1.96 L 0,-69.04 0,0 Z"
+             style="fill:#5fbb56;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4368"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4370"
+           transform="translate(1847.1279,1159.3252)">
+          <path
+             d="m 0,0 -9.576,0 0,1.96 7.364,0 0,65.12 -7.364,0 0,1.96 L 0,69.04 0,0 Z"
+             style="fill:#5fbb56;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4372"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
