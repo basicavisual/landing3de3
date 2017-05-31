@@ -66,10 +66,11 @@
   margin: auto;
   width: 63.33%;
   font-family: 'PT Mono', monospace;
-  font-size: .8em;
+  font-size: .7em;
   margin-top: 1em;
   margin-bottom: 1em;
   padding: .5em;
+  padding-right: 20%;
 }
 
 /*Grid system*/
