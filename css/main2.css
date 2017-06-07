@@ -5,21 +5,37 @@
     font-family: 'Helvetica Neue', serif;
 }
 
+html, body {
+    height: 100%;
+}
+
+html {
+    display: block;
+    margin: auto;
+    float: none;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+.all {
+  display: block;
+  margin: auto;
+  width: 75%;
+}
+
 @font-face {
     font-family: "Helvetica Neue";
     src: url(../public/HelveticaNeue.ttf) format("truetype");
 }
 
+
 .left-nav {
   display: inline-block;
   float: left;
-  margin-left: 10px;
-  margin-top: 10px;
-}
-
-.nav-links{
-  display: inline-block;
-  margin-left: 1.5em;
 }
 
 .nav-text {
@@ -28,28 +44,101 @@
   vertical-align: middle;
   text-decoration: none;
   color: #060606;
+  padding-left: 2em;
+  padding-right: 1em;
 }
-
 
 .right-nav {
   display: inline-block;
   float: right;
-  margin-left: 10px;
-  margin-top: 10px;
+  text-align: -webkit-right;
+  text-align: -moz-right;
+  text-align: -o-right;
+  text-align: -ms-right;
 }
 
 .logo-nav {
   display: inline-block;
-  width: 30%;
   height: auto;
   float: left;
   margin: 0px;
 }
 
 .logo-nav img {
-  width: 100%;
+  width: 8em;
 }
 
+/*Header*/
+
+.primo {
+  background-color: #e0e0e0;
+  padding: 2em 3em 2em 3em;
+  margin-bottom: 1.6em;
+}
+
+.secondo {
+  background-color: #e0e0e0;
+  padding: 1em 2em 1em 2em;
+  text-align: center;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.contorno {
+  background-color: #000;
+  height: 3em;
+  margin-top: 1.6em;
+  padding: 2em;
+}
+
+.contorno-due {
+  background-color: #000;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.5em;
+  padding: .1em;
+}
+
+.graph-section p {
+  font-weight: bold;
+  padding-left: 1em;
+  padding-top: 1em;
+}
+
+.graph-section img {
+  width: 100%;
+  height: auto;
+  padding: 1em;
+  margin-bottom: 1.6em;
+}
+
+.dolce p {
+  padding: 1em 2em 1em 2em;
+  margin-bottom: 1.6em;
+}
+
+.search-button {
+  background-color: #fff;
+  border-color: #000;
+  border-style: solid;
+  border-width: 1px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1em;
+  padding: 1em 2em 1em 2em;
+  text-decoration: none;
+  color: #000;
+  margin: auto;
+}
+
+.digestivo {
+  margin-top: 1.6em;
+  display: block;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 3em;
+}
 /*Grid system*/
 
 
@@ -62,9 +151,16 @@
 /* For mobile phones: */
 [class*="col-"] {
     width: 100%;
-    float: left;
     padding: 15px;
+    float: left;
 }
+
+/*Responsiveness*/
+
+@media only screen and (min-width: 300px) and (max-width: 600px) {
+        .nav-text  { display: block; text-align: left; padding: 0px; }
+}
+
 @media only screen and (min-width: 600px) {
     /* For tablets: */
     .col-m-1 {width: 8.33%;}
